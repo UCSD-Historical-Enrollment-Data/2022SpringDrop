@@ -12,3 +12,8 @@ I only have enrollment data for:
 
 ## Intervals
 Starting April 9, 2022, expect a roughly **17 minute interval** between requests to the same course. This is due to the enrollment period for this quarter officially being over, and the fact that I will be tracking the three summer sessions. In general, there is now a 6 second delay between requests instead of a 3 second delay.
+
+## Final Notes
+For more information about the project, including to ask any questions, please go to the [parent repository](https://github.com/ewang2002/UCSDHistEnrollData). 
+
+Do not create issues or pull requests in this repository; they will be ignored. 
